@@ -1,0 +1,6 @@
+payload:
+  - '+.bilibili.com'
+  - '+.biligame.net'
+  - '+.bilivideo.com'
+  - '+.biliapi.net'
+  - '+.hdslb.com'
