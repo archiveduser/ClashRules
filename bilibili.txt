@@ -5,4 +5,5 @@ payload:
   - '+.biliapi.net'
   - '+.hdslb.com'
   - '+.biliintl.com'
+  - '+.bilibili.tv'
   
