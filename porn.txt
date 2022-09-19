@@ -44,6 +44,7 @@ payload:
   - +.7mmtv.tv
   - +.85cc.net
   - +.85st.com
+  - +.85tube.com
   - +.85tube.org
   - +.88gals.com
   - +.8muses.com
@@ -521,7 +522,6 @@ payload:
   - +.luone666.top
   - +.luscious.net
   - +.lushstories.com
-  - +.m77a.com.cn
   - +.m88a.com.cn
   - +.madouqu.com
   - +.malayporn.space
@@ -721,6 +721,8 @@ payload:
   - +.pururin.to
   - +.pussycalor.com
   - +.pussyspace.com
+  - +.qianjin-7.net
+  - +.qincheng1.com
   - +.qingse.one
   - +.r.trwl1.com
   - +.rarbg.com
@@ -760,6 +762,7 @@ payload:
   - +.sehuatang.org
   - +.seneporno.com
   - +.seselah.com
+  - +.setuku.site
   - +.sex.com
   - +.sex3.com
   - +.sex4arab.xxx
@@ -896,7 +899,6 @@ payload:
   - +.twdvd.com
   - +.twhentai.com
   - +.twistedporn.com
-  - +.twitter.com
   - +.txh683p.com
   - +.txtxi.com
   - +.txxx.com
