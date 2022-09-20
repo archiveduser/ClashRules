@@ -87,6 +87,7 @@ payload:
   - +.alohatube.com
   - +.alotporn.com
   - +.alphaporno.com
+  - +.am364.com
   - +.amabitch.com
   - +.amateurcool.com
   - +.amateurs-gone-wild.com
@@ -796,6 +797,7 @@ payload:
   - +.shemalez.com
   - +.shentai.org
   - +.shesfreaky.com
+  - +.shichengbbs.com
   - +.shooshtime.com
   - +.simply-hentai.com
   - +.sis001.com
@@ -899,6 +901,7 @@ payload:
   - +.twdvd.com
   - +.twhentai.com
   - +.twistedporn.com
+  - +.twitter.com
   - +.txh683p.com
   - +.txtxi.com
   - +.txxx.com
