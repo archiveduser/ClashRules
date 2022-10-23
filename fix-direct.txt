@@ -1,0 +1,2 @@
+payload:
+  - '+.mxdm8.com'
