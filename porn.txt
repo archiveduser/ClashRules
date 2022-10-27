@@ -1016,3 +1016,17 @@ payload:
   - +.zanghuage.cc
   - +.zd98.cc
   - +.zzcartoon.com
+  - +.po18.tw
+  - +.boyboy.cc
+  - +.javopen.co
+  - +.jable.tv
+  - +.javdove.com
+  - +.po18vip.com
+  - +.haitangkanshu.com
+  - +.po18bl.com
+  - +.haitbook.com
+  - +.henhaoso.net
+  - +.funsizeboys.net
+  - +.yidan.love
+  - +.redgifs.com
+
