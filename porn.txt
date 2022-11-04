@@ -1029,4 +1029,7 @@ payload:
   - +.funsizeboys.net
   - +.yidan.love
   - +.redgifs.com
-
+  - +.po18go.com
+  - +.meiseav
+  - +.vrporn.com
+  
