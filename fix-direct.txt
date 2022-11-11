@@ -1,2 +1,3 @@
 payload:
   - '+.mxdm8.com'
+  - '+.jd.com'
