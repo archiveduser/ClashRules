@@ -30,3 +30,4 @@ payload:
   - '+.google.com.ua'
   - '+.google.com.uy'
   - '+.google.com.vn'
+  - '+.googlevideo.com'
