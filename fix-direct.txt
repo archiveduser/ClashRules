@@ -1,3 +1,2 @@
 payload:
   - '+.mxdm8.com'
-  - 'proxy-tf-all-ws.bilivideo.com'
