@@ -6,4 +6,4 @@ payload:
   - '+.hdslb.com'
   - '+.biliintl.com'
   - '+.bilibili.tv'
-  - '+.akamaized.net'
+  - '+.upos-hz-mirrorakam.akamaized.net'
